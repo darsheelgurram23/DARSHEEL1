@@ -1,0 +1,59 @@
+html{
+
+
+    height: 100%;
+    width: 100%;
+    }
+    
+    
+    body {
+    
+    
+    
+    
+    h1{
+        text-align: center;
+    }
+    
+    
+    
+    
+    h2{
+        text-align: center;
+    }
+    
+    h3{
+        text-align: center;
+    }
+    
+    
+    
+    p{
+        text-align: center;
+    }
+    
+    
+    
+    
+    background-color: Blue;
+    /* This changes the color of the background */
+    color: Yellow;
+    /* This changes the color of the text */
+    font-family: Trebuchet MS;
+    /* This changes the font style of the text */
+    
+    
+    background-image: url('Other.jpg');
+    background-size: cover;
+    
+    
+    
+    
+    }
+    a {
+       color: yellow
+    }
+    a:hover{
+        color: red;
+    }
+    
